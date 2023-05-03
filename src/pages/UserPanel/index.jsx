@@ -1,9 +1,9 @@
 import React from 'react';
 
-function App() {
+function UserPanel(props) {
     return (
         <div></div>
     );
 }
 
-export default App;
+export default UserPanel;
