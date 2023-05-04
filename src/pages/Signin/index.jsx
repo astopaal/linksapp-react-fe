@@ -1,9 +1,13 @@
 import React from 'react';
+import SignInForm from '../../components/SignInForm';
 
-function SignIn(props) {
-    return (
-        <div></div>
-    );
+
+function SignIn() {
+
+    return(
+        <SignInForm />
+    )
+    
 }
 
 export default SignIn;
